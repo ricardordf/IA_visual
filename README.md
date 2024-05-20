@@ -1,7 +1,5 @@
 # Actividad. Inteligencia Artificial
 
-# Proyecto de Machine Learning - Mantenimiento Industrial Avanzado
-
 Este repositorio contiene el proyecto de Machine Learning solicitado por nuestro cliente para el uso de técnicas de inteligencia artificial en su fábrica. El objetivo es resolver dos problemas específicos utilizando modelos de clasificación y regresión.
 
 ## Tabla de Contenidos
